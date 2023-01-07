@@ -3,7 +3,7 @@
 <img src= "map.png"/>
 
 ## Description 
-This Project is a web page that shows the map of bus stops between MIT and Harvard. I used map library 
+This Project is a web page that shows the map of bus stops between MIT and Harvard. I used mapbox to create this map.
 
 ## How to Run 
 Please follow this [link](https://oksanawalters.github.io/Real-Time-Bus-Tracker/) to test it yourself. When the page is loaded click on "Show stops between MIT and Harvard".
